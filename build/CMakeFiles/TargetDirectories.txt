@@ -1,0 +1,4 @@
+/Users/eldop/Downloads/simpledb_project/build/CMakeFiles/simpledb.dir
+/Users/eldop/Downloads/simpledb_project/build/CMakeFiles/simpledb_app.dir
+/Users/eldop/Downloads/simpledb_project/build/CMakeFiles/edit_cache.dir
+/Users/eldop/Downloads/simpledb_project/build/CMakeFiles/rebuild_cache.dir

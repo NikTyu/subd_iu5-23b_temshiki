@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsimpledb.a CMakeFiles/simpledb.dir/src/simpledb.cpp.o
+/usr/bin/ranlib libsimpledb.a
